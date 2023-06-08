@@ -10,6 +10,7 @@ import javax.persistence.EntityManagerFactory;
 import java.util.List;
 
 public class BoatFacade {
+    // this is a commit comment
 
     private static BoatFacade instance;
     private static EntityManagerFactory emf;
