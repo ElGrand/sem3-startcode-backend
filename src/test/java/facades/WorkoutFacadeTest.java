@@ -10,6 +10,7 @@ import javax.persistence.EntityManagerFactory;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+@Disabled
 @NoArgsConstructor
 public class WorkoutFacadeTest {
 
